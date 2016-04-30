@@ -288,11 +288,12 @@
            -Dversion=1 \
            -Dpackaging=jar
            -->
-      <dependency>
+      <!-- <dependency>
         <groupId>com.google.android.google-play-services</groupId>
         <artifactId>google-play-services</artifactId>
         <version>1</version>
-      </dependency>
+      </dependency> 
+      -->
     </dependencies>
   </dependencyManagement>
 
